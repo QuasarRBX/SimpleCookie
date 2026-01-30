@@ -1,0 +1,175 @@
+{
+    "cookie_check_count": 12,
+    "registration_date": "2026-01-22",
+    "badges": null,
+    "gamepasses": [
+        "37665008"
+    ],
+    "username": "oindc",
+    "last_activity": "2026-01-26 16:13:23.130825",
+    "total_checks": 13,
+    "valid_cookies_found": 13,
+    "invalid_cookies_found": 0,
+    "output_format": {
+        "zip": false,
+        "txt": true
+    },
+    "check_params": {
+        "balance": true,
+        "pending": true,
+        "badges_by_name": true,
+        "gamepasses_by_name": true,
+        "donate_year": true,
+        "donate_all_time": true,
+        "ingame_donate": true,
+        "playtime": true,
+        "rap": true,
+        "billing": true,
+        "cards": true,
+        "premium": true,
+        "email": true,
+        "rare_items": true,
+        "badges": true,
+        "gamepasses": true,
+        "group_balance": true,
+        "place_visits": true,
+        "country": true
+    },
+    "game_settings": {
+        "Steal a Brainrot": {
+            "enabled": false,
+            "game_id": 109983668079237
+        },
+        "Grow a Garden": {
+            "enabled": false,
+            "game_id": 111530421351096
+        },
+        "Adopt Me": {
+            "enabled": false,
+            "game_id": 920587237
+        },
+        "Blade Ball": {
+            "enabled": false,
+            "game_id": 13772394625
+        },
+        "PS99": {
+            "enabled": false,
+            "game_id": 8737899170
+        },
+        "MM2": {
+            "enabled": true,
+            "game_id": 142823291
+        },
+        "BSS": {
+            "enabled": false,
+            "game_id": 1537690962
+        },
+        "Jailbreak": {
+            "enabled": false,
+            "game_id": 606849621
+        },
+        "Blox Fruits": {
+            "enabled": false,
+            "game_id": 2753915549
+        }
+    },
+    "game_gamepasses_AnimeVanguards": [
+        [
+            "Shiny Hunter",
+            846032291,
+            "Shiny_Hunter"
+        ],
+        [
+            "VIP",
+            843295206,
+            "VIP"
+        ],
+        [
+            "VIP",
+            843295206,
+            "VIP"
+        ],
+        [
+            "VIP",
+            843295206,
+            "VIP"
+        ],
+        [
+            "Extra Unit Storage",
+            842367966,
+            "Extra_Unit_Storage"
+        ],
+        [
+            "Anime Vanguards Tester",
+            780911708,
+            "Anime_Vanguards_Tester"
+        ],
+        [
+            "Shiny Hunter",
+            846032291,
+            "Shiny_Hunter"
+        ],
+        [
+            "VIP",
+            843295206,
+            "VIP"
+        ],
+        [
+            "VIP",
+            843295206,
+            "VIP"
+        ],
+        846032291
+    ],
+    "game_badges_AnimeVanguards": [
+        878251529804666,
+        4435567743462309
+    ],
+    "game_gamepasses_MurderMystery2": [
+        3346253,
+        3646351,
+        26304644,
+        1308795,
+        429957
+    ],
+    "game_badges_MurderMystery2": [
+        196200089
+    ],
+    "game_badges_GrowaGarden": [
+        3181581226889239,
+        2432009301742310,
+        3495711621999816,
+        3310355054544865,
+        34852060037844,
+        4330691652818014,
+        3602894446235962,
+        2213702621912050,
+        3966694991137927,
+        674039989298417
+    ],
+    "game_gamepasses_GrowaGarden": [
+        1239020110
+    ],
+    "game_badges_AdoptMe": [
+        2129488030,
+        2124520917,
+        2129488028,
+        2124439928,
+        2124439922,
+        2124439923,
+        2124439924,
+        2124439925,
+        135520552767917,
+        1048893619880427,
+        639601989428398,
+        2388128713374485
+    ],
+    "game_gamepasses_AdoptMe": [
+        3196348
+    ],
+    "referral_code": "E4031C49",
+    "referral_count": 1,
+    "bonus_checks": 3,
+    "is_vip": true,
+    "vip_until": "2026-02-25T16:13:23.127552"
+}
