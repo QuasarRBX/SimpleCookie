@@ -12,9 +12,9 @@
 
 </div>
 
-###
+Simple Cookie is a powerful Telegram bot designed for mass checking Roblox cookies with detailed account analysis, game-specific checks, and various cookie management tools.
 
-## Simple Cookie is a powerful Telegram bot designed for mass checking Roblox cookies with detailed account analysis, game-specific checks, and various cookie management tools.
+###
 
 ---
 
