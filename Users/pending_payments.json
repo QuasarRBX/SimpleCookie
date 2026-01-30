@@ -1,0 +1,26 @@
+{
+    "42946671": {
+        "user_id": 5025324598,
+        "payment_method": "cryptobot",
+        "amount": 2.0,
+        "days": 30,
+        "created_at": "2026-01-26 21:10:48.597966",
+        "status": "pending"
+    },
+    "42946675": {
+        "user_id": 5025324598,
+        "payment_method": "cryptobot",
+        "amount": 2.0,
+        "days": 30,
+        "created_at": "2026-01-26 21:10:49.614889",
+        "status": "pending"
+    },
+    "42947519": {
+        "user_id": 5025324598,
+        "payment_method": "cryptobot",
+        "amount": 2.0,
+        "days": 30,
+        "created_at": "2026-01-26 21:20:16.762929",
+        "status": "pending"
+    }
+}
