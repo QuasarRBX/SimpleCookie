@@ -212,4 +212,4 @@ This tool is designed for educational and research purposes only. The developers
 
 ---
 
-*Last updated: January 2024*
+*Last updated: January 2026*
