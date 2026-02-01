@@ -30,7 +30,7 @@ from aiogram.enums import ParseMode
 import telebot
 
 
-ADMINS = [5025324598, 7550113686] #admins
+ADMINS = [] #admins
 BOT_TOKEN = ''#token from @BotFather
 BOT_NAME = 'sɪᴍᴘʟᴇ ᴄᴏᴏᴋɪᴇ' #bot name
 CRYPTOBOT_API_KEY = '' #cryptobot api key
@@ -8952,4 +8952,5 @@ if __name__ == "__main__":
     )
     
     logging.info("Запуск бота...")
+
     asyncio.run(main())
